@@ -10,6 +10,3 @@ This project explores housing data from **King County, Washington (USA)** to und
 - Visualize important insights (price distribution, impact of features, etc.)
 - Build **basic predictive models** for house price estimation
 
----
-
-## 📂 Project Structure
